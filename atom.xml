@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>🌞</title>
+  
+  <subtitle>DOTAer AND Coder</subtitle>
+  <link href="http://example.com/atom.xml" rel="self"/>
+  
+  <link href="http://example.com/"/>
+  <updated>2021-03-10T16:29:24.620Z</updated>
+  <id>http://example.com/</id>
+  
+  <author>
+    <name>YngziJ</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>新的开始</title>
+    <link href="http://example.com/2021/03/11/%E6%96%B0%E7%9A%84%E5%BC%80%E5%A7%8B/"/>
+    <id>http://example.com/2021/03/11/%E6%96%B0%E7%9A%84%E5%BC%80%E5%A7%8B/</id>
+    <published>2021-03-10T16:06:36.000Z</published>
+    <updated>2021-03-10T16:29:24.620Z</updated>
+    
+    <content type="html"><![CDATA[<p>前前后后搭建了N次博客了,弄好了又没什么值得写的,虚晃度日勉强还是挤得出一点感悟,总是不至于到了退休之年连个笑话都想不起来.</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;前前后后搭建了N次博客了,弄好了又没什么值得写的,虚晃度日勉强还是挤得出一点感悟,总是不至于到了退休之年连个笑话都想不起来.&lt;/p&gt;
+</summary>
+      
+    
+    
+    
+    
+    <category term="生活" scheme="http://example.com/tags/%E7%94%9F%E6%B4%BB/"/>
+    
+  </entry>
+  
+</feed>
