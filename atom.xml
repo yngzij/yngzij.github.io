@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2021-03-21T15:22:16.568Z</updated>
+  <updated>2021-03-21T15:24:04.860Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -21,15 +21,15 @@
     <link href="http://example.com/2021/03/21/%E8%A6%81%E5%86%99%E7%82%B9%E5%95%A5/"/>
     <id>http://example.com/2021/03/21/%E8%A6%81%E5%86%99%E7%82%B9%E5%95%A5/</id>
     <published>2021-03-21T15:21:00.000Z</published>
-    <updated>2021-03-21T15:22:16.568Z</updated>
+    <updated>2021-03-21T15:24:04.860Z</updated>
     
-    <content type="html"><![CDATA[<blockquote><p>不行,今晚一定要写点啥,那就写点啥.</p></blockquote>]]></content>
+    <content type="html"><![CDATA[<blockquote><p>不行,今晚一定要写点啥,那就写点啥,证明还活着.</p></blockquote>]]></content>
     
     
       
       
     <summary type="html">&lt;blockquote&gt;
-&lt;p&gt;不行,今晚一定要写点啥,那就写点啥.&lt;/p&gt;
+&lt;p&gt;不行,今晚一定要写点啥,那就写点啥,证明还活着.&lt;/p&gt;
 &lt;/blockquote&gt;
 </summary>
       
@@ -37,7 +37,7 @@
     
     
     
-    <category term="life" scheme="http://example.com/tags/life/"/>
+    <category term="无聊的定时任务" scheme="http://example.com/tags/%E6%97%A0%E8%81%8A%E7%9A%84%E5%AE%9A%E6%97%B6%E4%BB%BB%E5%8A%A1/"/>
     
   </entry>
   
