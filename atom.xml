@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2021-03-10T16:29:24.620Z</updated>
+  <updated>2021-03-21T15:22:16.568Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -15,6 +15,31 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>要写点啥</title>
+    <link href="http://example.com/2021/03/21/%E8%A6%81%E5%86%99%E7%82%B9%E5%95%A5/"/>
+    <id>http://example.com/2021/03/21/%E8%A6%81%E5%86%99%E7%82%B9%E5%95%A5/</id>
+    <published>2021-03-21T15:21:00.000Z</published>
+    <updated>2021-03-21T15:22:16.568Z</updated>
+    
+    <content type="html"><![CDATA[<blockquote><p>不行,今晚一定要写点啥,那就写点啥.</p></blockquote>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;blockquote&gt;
+&lt;p&gt;不行,今晚一定要写点啥,那就写点啥.&lt;/p&gt;
+&lt;/blockquote&gt;
+</summary>
+      
+    
+    
+    
+    
+    <category term="life" scheme="http://example.com/tags/life/"/>
+    
+  </entry>
   
   <entry>
     <title>新的开始</title>
