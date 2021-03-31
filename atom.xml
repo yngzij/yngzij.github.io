@@ -2,11 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>🌞</title>
   
-  <subtitle>DOTAer AND Coder</subtitle>
+  <subtitle>世界将我包围</subtitle>
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2021-03-21T15:24:04.860Z</updated>
+  <updated>2021-03-31T16:13:03.649Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -15,6 +15,28 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>快乐不快乐</title>
+    <link href="http://example.com/2021/04/01/%E5%BF%AB%E4%B9%90%E4%B8%8D%E5%BF%AB%E4%B9%90/"/>
+    <id>http://example.com/2021/04/01/%E5%BF%AB%E4%B9%90%E4%B8%8D%E5%BF%AB%E4%B9%90/</id>
+    <published>2021-03-31T16:11:41.000Z</published>
+    <updated>2021-03-31T16:13:03.649Z</updated>
+    
+    <content type="html"><![CDATA[<p>听罗翔说了故事,假如给从《莎士比亚》和小黄书中选择一本书留给后代,你一定不会选择让你兴奋的小黄书反而会选择《莎士比亚》.<br>我想也是,即使小黄书让我分泌的多巴胺远多于其他书籍,但多少有点自惭形秽,获取快乐并不是见不得人的事,但是缺少意义的事物却可有可无.<br>打了一天的游戏,关机前脑子已经忘记的七七八八,要是几年前可能还想回忆起来点什么总结一下战后经验,现在打完只想睡觉,却也没有那么快乐,无论输赢都只是虚耗的过程.</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;听罗翔说了故事,假如给从《莎士比亚》和小黄书中选择一本书留给后代,你一定不会选择让你兴奋的小黄书反而会选择《莎士比亚》.&lt;br&gt;我想也是,即使小黄书让我分泌的多巴胺远多于其他书籍,但多少有点自惭形秽,获取快乐并不是见不得人的事,但是缺少意义的事物却可有可无.&lt;br&gt;打了一天</summary>
+      
+    
+    
+    
+    
+    <category term="生活" scheme="http://example.com/tags/%E7%94%9F%E6%B4%BB/"/>
+    
+  </entry>
   
   <entry>
     <title>要写点啥</title>
